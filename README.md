@@ -4,4 +4,4 @@ I upload my tasks to this repository to master various tools for creating etl sc
 Technologies I am using: SQL, Pandas, PySpark.<br>
 Tasks was taken from [HERE](https://advancedsqlpuzzles.com/) <br>
 <br>
-///Tasks still in progress.
+///IN PROGRESS
